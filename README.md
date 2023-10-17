@@ -9,7 +9,7 @@ To examine where, how, when and what choices passengers make related to booking 
 
 # Data Source
 * British Airways DataSet (Kaggle) https://www.kaggle.com/datasets/manishkumar7432698/airline-passangers-booking-data 
-* There are three dataset available, only the passenger_booking_data was utilised in this analysis. The other two are related to customer flinght reviews and surveys.
+* There are three dataset available, only the passenger_booking_data was utilised in this analysis. The other two are related to customer flight reviews and surveys.
 
 # Folders
 Airline booking Analysis project deliverables were separated into the following folders:
