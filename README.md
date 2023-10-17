@@ -7,10 +7,8 @@ The data set updated fortnightly, contains the most recent information on detail
 To examine where, how, when and what choices passengers make related to booking a holiday.
 
 
-# Tools
-* Python
-* Tableau
-
+# Data Source
+* British Airways DataSet (Kaggle) https://www.kaggle.com/datasets/manishkumar7432698/airline-passangers-booking-data 
 
 # Folders
 Airline booking Analysis project deliverables were separated into the following folders:
