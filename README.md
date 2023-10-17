@@ -11,9 +11,7 @@ To examine where, how, when and what choices passengers make related to booking 
 * British Airways DataSet (Kaggle) https://www.kaggle.com/datasets/manishkumar7432698/airline-passangers-booking-data 
 * There are three dataset available, only the passenger_booking_data was utilised in this analysis. The other two are 
  related to customer flight reviews and surveys.
-
 * A Time series data set used in this project as part of the learning on the course, but not related to Airline Booking project. Link https://data.nasdaq.com/search?filters=%5B%22Economy%20%26%20Society%22%5D&query=consumer%20price%20index
-
 * To explore the spatial element of this analysis, a shapefile was incorporated into the dataset to allow for geographic visualisation of data from https://www.kaggle.com/datasets/ktochylin/world-countries  
 
 # Folders
